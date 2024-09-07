@@ -2,8 +2,8 @@
 import './App.css';
 import { BrowserRouter, Route, Router, Routes } from 'react-router-dom';
 // import { Home } from './components/homepage';
-import { SignIn } from './components/signin/signin';
-import { SignUp } from './components/signup/signup';
+import { SignIn } from './components/signin/Signin';
+import { SignUp } from './components/signup/Signup';
 // import { Dashboard } from './components/board/dashboard';
 import { AdminLogin } from './components/admin/login';
 import { Dashboard } from './components/board/dashboard';
