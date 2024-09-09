@@ -1,1 +1,1 @@
-export const api="https://error404-0zwn.onrender.com"
+export const api="https://error404-pkjz.onrender.com"
